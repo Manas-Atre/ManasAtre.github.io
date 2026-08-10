@@ -1,4 +1,4 @@
-# 👋  hi I'm Manas Atre
+# 👋  Hi I'm Manas Atre
 
 Welcome to my personal portfolio repository. I am an **MSc Artificial Intelligence graduate** with hands-on experience building AI, machine learning, LLM, RAG, computer-vision, data-science, and analytics solutions in Python.
 
