@@ -1,122 +1,176 @@
-# 👋 Hi, I'm Manas Atre
+# 👋 Manas Atre — AI & Data Science Portfolio
 
-A motivated **AI enthusiast** and **software developer** with an MSc in Artificial Intelligence and hands-on experience in **LLMs**, **computer vision**, **machine learning**, and **data engineering workflows**. I enjoy building intelligent systems that solve real-world problems and improve human–technology interaction.
+Welcome to my personal portfolio repository. I am an **MSc Artificial Intelligence graduate** with hands-on experience building AI, machine learning, LLM, RAG, computer-vision, data-science, and analytics solutions in Python.
 
-I'm currently seeking **entry-level roles** in **Software Development** or **AI Engineering** within Ireland.
+This repository powers my personal **GitHub Pages portfolio website** and provides an overview of my background, technical skills, professional experience, education, certifications, and selected projects.
 
----
+## 🚀 About Me
 
-## 🧠 About Me
+I am an Artificial Intelligence graduate focused on building practical AI and data-driven systems.
 
-I am passionate about leveraging AI to create meaningful impact—whether it’s optimizing model performance, enhancing data quality, or designing reliable and user-friendly applications.  
-With experience across **Python**, **ML model development**, **data preprocessing**, and **AI-driven applications**, I thrive in environments where learning and innovation go hand in hand.
+My experience includes:
 
----
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- LangChain
+- Embeddings
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- CNNs and transfer learning
+- Data Science
+- SQL and data analysis
+- Interactive analytics dashboards
+- AWS and cloud technologies
 
-## 🛠 Skills & Technologies
+During my Data Science internship at Orcawise, I designed and built a RAG-powered LLM chatbot for EU AI Act regulations that reduced customer query response time by **30%**. I also worked on machine-learning data preprocessing and statistical analysis.
 
-**Languages:**  
-- Python, R, C#
+My Master's thesis focused on **Counter-UAV Object Detection**, where I developed a hybrid MagNet-inspired CNN and VGG16-based architecture and achieved up to **95.8% accuracy** with a VGG16 configuration.
 
-**Frameworks & Tools:**  
-- ASP.NET, Streamlit, LangChain  
-- Git, Confluence, CI/CD  
-- Linux & Windows
+## 🧠 Technical Skills
 
-**Databases:**  
-- MySQL, SQL Server, Advanced SQL
+### Programming
+Python · R · JavaScript · SQL
 
-**Data & Analytics:**  
-- Machine Learning, NLP, Computer Vision  
-- Power BI  
-- RAG Pipelines
+### AI & Machine Learning
+Machine Learning · Deep Learning · LLMs · Generative AI · Prompt Engineering · RAG · LangChain · Embeddings · Computer Vision · CNNs · VGG16 · Transfer Learning
 
----
+### Data & Cloud
+AWS · Power BI · MySQL · SQL Server · Advanced SQL
 
-## 💼 Professional Experience
+### Tools & Platforms
+Git · CI/CD · Streamlit · Linux · Windows · Confluence
 
-### **Technical Support Advisor — EIR**  
-*Oct 2024 – Present*  
-- Troubleshot broadband, landline, and mobile service issues.  
-- Performed diagnostics: line tests, sync checks, throughput analysis.  
-- Guided users through IPv4/IPv6, DNS, and router configurations.  
-- Helped optimize Wi-Fi channels and reduce packet loss.  
-- Documented cases using CRM tools and educated customers on network security.
+# 💼 Experience
 
-### **Data Science Intern — Orcawise**  
-*Feb 2024 – Jun 2024*  
-- Cleaned and transformed raw data using Python and statistical methods.  
-- Researched RAG and implemented it in data-driven AI projects.  
-- Built an ML model to predict APR illness severity.  
-- Developed an EU AI Act–compliant chatbot using **Python**, **Streamlit**, and **LangChain**.  
-- Optimized an LLM reducing response time by **30%**, increasing satisfaction scores.
+## Data Science Intern — Orcawise
+**Galway, Ireland | Feb 2024 – Jun 2024**
 
-### **Sales Assistant — KFC**  
-*Nov 2022 – Oct 2024*  
-- Customer service and fast-paced operations support.
+- Built a RAG-powered LLM chatbot using Python, Streamlit, and LangChain for EU AI Act regulations.
+- Reduced customer query response time by **30%** while improving customer satisfaction.
+- Developed a machine-learning model for predicting APR illness severity.
+- Performed data preprocessing, missing-value handling, error removal, and predictive-variable analysis.
+- Conducted RAG research and statistical analysis using P-value testing and correlation analysis.
 
----
+## Technical Support Advisor — EIR
+**Oct 2024 – Present**
 
-## 🎓 Education
+- Provide first-line technical support for broadband, landline, and mobile services.
+- Handle approximately **40 customer tickets per day / 200+ weekly**.
+- Diagnose connectivity and configuration issues using technical diagnostic tools.
+- Perform line tests, synchronization checks, noise-margin analysis, and throughput evaluations.
+- Troubleshoot IPv4/IPv6, DNS, gateway/router, and Wi-Fi configuration issues.
+- Advise customers on firewall configuration, firmware updates, WPA2/WPA3 encryption, and secure networking.
 
-### **MSc Artificial Intelligence — University of Galway (2022–2023)**  
-Modules: NLP, Optimisation, IR, ML, DL, Data Visualization, Reinforcement Learning, Multi-Agent Systems, Systems Modelling.
+## Sales Assistant — KFC
+**Galway, Ireland | Nov 2022 – Oct 2024**
 
-### **BSc Computer Science — Mulund College of Commerce (2019–2022)**  
-CGPA: **9.48/10**  
-Modules: Data Structures, IoT, Ethical Hacking, Cyber Security, DBMS, OS, Networks, Software Engineering.
+- Delivered customer service in a high-volume environment.
+- Managed point-of-sale transactions and order accuracy.
 
----
+# 🎓 Education
 
-## 🚀 Projects
+## MSc Artificial Intelligence
+**University of Galway, Ireland | 2022 – 2023**
 
-### **UAV Object Recognition with YOLOv4 (2023)**  
-- Developed a UAV object detection pipeline combining a proprietary MAGNet CNN with VGG16.  
-- Used transfer learning to improve detection accuracy and feature extraction.  
-- Built sub-models to refine spatial analysis and precision.
+Relevant modules: Optimisation, Natural Language Processing, Information Retrieval, Systems Modelling & Simulation, Data Visualisation, Programming for AI, Machine Learning, Deep Learning, Agents & Multi-Agent Systems, and Reinforcement Learning.
 
-### **Financial Calculator & Services Website (2022)**  
-- Built an ASP.NET website for financial calculations (SI, CI, SIP, loans).  
-- Added a feature to locate nearby banks and view locker availability.
+## BSc Computer Science
+**Mulund College of Commerce, India | 2019 – 2022**
 
-### **Just Change – Virtual Try-On System (2022)**  
-- Created an AI-powered garment try-on application using Python and computer vision.  
-- Allowed users to quickly switch accessories and preview outfits.
+**CGPA: 9.48 / 10**
 
----
+Relevant modules: Data Structures, IoT, Ethical Hacking, Cyber Security, Databases, Operating Systems, Computer Networks, and Software Engineering.
 
-## 📜 Certifications
+# 🛠️ Featured Projects
 
-- Get Started with AI on Azure — *Microsoft Learn (2024)*  
-- Advanced SQL for Data Scientists — *LinkedIn (2024)*  
-- Introduction to AI — *Simplilearn (2022)*  
-- AI & Data Science — *Govt. of India MSME (2022)*  
-- AI & Python — *IIT Mumbai (2022)*
+## 📊 Insurance Analytics, Customer Segmentation & Forecasting
+**Python · Scikit-learn · ARIMA · K-Means · Dash**
 
----
+An end-to-end insurance analytics project covering preprocessing, exploratory data analysis, feature selection, supervised machine learning, time-series forecasting, customer segmentation, and interactive visualization.
 
-## 🏆 Achievements
+- Built a reproducible analytics pipeline.
+- Benchmarked Random Forest, Logistic Regression, and SVC classifiers.
+- Performed feature-importance analysis.
+- Applied ARIMA for insurance-payment forecasting.
+- Used K-Means to identify customer segments.
+- Built an interactive Plotly/Dash dashboard.
 
-- **1st Place** — TechnoHunt Coding Competition  
-- **3rd Place** — Math Wonder Competition  
+**Repository:** Add your GitHub repository link here.
 
----
+## 🛩️ Counter-UAV Object Detection — Master's Thesis
+**Deep Learning · CNN · VGG16 · Computer Vision · Transfer Learning**
 
-## 🌱 Extracurriculars
+Developed a hybrid deep-learning architecture for detecting and localising drones using a manually curated and annotated dataset of **1,400 drone images**.
 
-- **Health & Safety Officer**, Photography Society — University of Galway (2023)  
-- **Event Coordinator**, Neon Cricket — Technobeat Fest (2019)  
-- **Vice Auditor**, Video Game Society — University of Galway (2022)
+- Designed a hybrid MagNet-inspired CNN + VGG16 architecture.
+- Performed bounding-box regression for drone localisation.
+- Experimented with batch size, epochs, and learning rate.
+- Achieved up to **95.8% accuracy** with a VGG16 configuration.
+- Achieved **93.6% accuracy** with the combined MagNet+VGG16 architecture.
 
----
+**Repository:** Add your GitHub repository link here.
 
-## 📬 Contact
+## 👕 Virtual Try-On Application
+**Python · OpenCV · MediaPipe · cvzone · MySQL**
 
-- **Email:** manasbatre@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ManasAtre  
-- **Location:** Galway, Ireland  
+Built a real-time virtual try-on application using webcam-based hand tracking.
 
----
+- Implemented real-time hand tracking.
+- Detected pinch gestures.
+- Enabled drag-and-drop accessory overlays.
+- Logged selections to a MySQL backend.
 
-### ⭐ Interested in collaborating on AI, ML, or software development projects?  
-Feel free to reach out!
+**GitHub:** [JustChange](https://github.com/Manas-Atre/JustChange)
+
+# 🏆 Certifications
+
+- **Generative AI with Large Language Models** — DeepLearning.AI / AWS, 2026
+- **Data Science Job Simulation** — British Airways / Forage, 2026
+
+# 🥇 Achievements
+
+- **1st Prize — TechnoHunt Competition:** Coding competition involving quizzes, treasure hunts, debugging, and code reviews.
+- **3rd Place — Math Wonder Competition:** Mulund College of Commerce.
+
+# 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Generative AI
+- LLM Applications
+- RAG Systems
+- NLP
+- Computer Vision
+- Deep Learning
+- AI Agents
+- Data Analytics
+
+# 📫 Contact
+
+**Manas Atre**  
+📍 Thane, Maharashtra, India  
+📧 [manasbatre@gmail.com](manasbatre@gmail.com)  
+🐙 [GitHub](https://github.com/Manas-Atre)  
+💼 [LinkedIn](www.linkedin.com/in/manasatre)
+
+## 📌 Portfolio Goals
+
+This portfolio demonstrates practical ability to:
+
+- Build AI systems
+- Work with real-world datasets
+- Develop machine-learning pipelines
+- Create LLM and RAG applications
+- Build computer-vision systems
+- Perform data analysis
+- Communicate technical results
+- Deploy interactive applications
+- Use modern software-development workflows
+
+## 📄 License
+
+This portfolio repository is personal work. Individual project repositories may have their own licenses and usage terms.
+
